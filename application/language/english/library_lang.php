@@ -1,0 +1,28 @@
+<?php
+
+$lang = array (
+  'book id' => 'Book id',
+  'edition' => 'Edition',
+  'edition year' => 'Edition year',
+  'add date' => 'Add date',
+  'read online' => 'Read online',
+  'import book from csv' => 'Import book from csv',
+  'upload file' => 'Upload file',
+  'download sample csv' => 'Download sample csv',
+  '(Open with text editor to view original formatting)' => '(Open with text editor to view original formatting)',
+  'member name' => 'Member name',
+  'issue date' => 'Issue date',
+  'expiry date' => 'Expiry date',
+  'return date' => 'Return date',
+  'fine' => 'Fine',
+  'is returned' => 'Is returned',
+  'issue from date' => 'Issue from date',
+  'issue to date' => 'Issue to date',
+  'issued' => 'Issued',
+  'issue and return' => 'Issue and return',
+  'member search panel' => 'Member search panel',
+  'member id/name' => 'Member id/name',
+  'book id/name' => 'Book id/name',
+  'return' => 'Return',
+  'new issue' => 'New issue',
+);

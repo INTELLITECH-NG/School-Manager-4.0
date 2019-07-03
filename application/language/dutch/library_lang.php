@@ -1,0 +1,28 @@
+<?php
+
+$lang = array (
+  'book id' => 'boek id',
+  'edition' => 'Editie',
+  'edition year' => 'Edition jaar',
+  'add date' => 'datum toevoegen',
+  'read online' => 'Lees online',
+  'import book from csv' => 'Import boek uit csv',
+  'upload file' => 'Upload bestand',
+  'download sample csv' => 'Download monster csv',
+  '(Open with text editor to view original formatting)' => '(Opent met tekst editor om de originele opmaak bekijken)',
+  'member name' => 'naam lid',
+  'issue date' => 'Datum van publicatie',
+  'expiry date' => 'Vervaldatum',
+  'return date' => 'Retourdatum',
+  'fine' => 'fijn',
+  'is returned' => 'geretourneerd',
+  'issue from date' => 'Uitgifte van datum',
+  'issue to date' => 'Kwestie tot op heden',
+  'issued' => 'Uitgegeven',
+  'issue and return' => 'Uitgifte en terugkeer',
+  'member search panel' => 'Lid zoekpaneel',
+  'member id/name' => 'Lid id / naam',
+  'book id/name' => 'Boek id / naam',
+  'return' => 'terugkeer',
+  'new issue' => 'Nieuw probleem',
+);
